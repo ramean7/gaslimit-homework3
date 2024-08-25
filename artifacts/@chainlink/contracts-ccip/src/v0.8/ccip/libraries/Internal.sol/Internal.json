@@ -1,0 +1,50 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Internal",
+  "sourceName": "@chainlink/contracts-ccip/src/v0.8/ccip/libraries/Internal.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "GAS_PRICE_BITS",
+      "outputs": [
+        {
+          "internalType": "uint8",
+          "name": "",
+          "type": "uint8"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "MESSAGE_FIXED_BYTES",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "MESSAGE_FIXED_BYTES_PER_TOKEN",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x60bc610039600b82828239805160001a60731461002c57634e487b7160e01b600052600060045260246000fd5b30600052607381538281f3fe730000000000000000000000000000000000000000301460806040526004361060475760003560e01c806318994e7a14604c5780637a4bb232146067578063dc47c58b14607f575b600080fd5b605461022081565b6040519081526020015b60405180910390f35b606e607081565b60405160ff9091168152602001605e565b605460808156fea2646970667358221220ac7f9e6b24836ee624b69973631ec71bf545a29c06626801ca4eddd28394306064736f6c63430008130033",
+  "deployedBytecode": "0x730000000000000000000000000000000000000000301460806040526004361060475760003560e01c806318994e7a14604c5780637a4bb232146067578063dc47c58b14607f575b600080fd5b605461022081565b6040519081526020015b60405180910390f35b606e607081565b60405160ff9091168152602001605e565b605460808156fea2646970667358221220ac7f9e6b24836ee624b69973631ec71bf545a29c06626801ca4eddd28394306064736f6c63430008130033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
